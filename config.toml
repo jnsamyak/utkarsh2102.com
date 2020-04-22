@@ -82,7 +82,7 @@ pygmentscodefencesguesssyntax = true
     name = "RSS"
     icon = "fas fa-rss"
     weight = 5
-    url = "https://utkarsh2102.com/index.xml"
+    url = "https://hardcore-easley-73da30.netlify.app/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
 
